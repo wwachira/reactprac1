@@ -9,7 +9,7 @@ function App() {
     <div>
       <Header />
       
-     Welcome 
+     Welcome to react prac
      <Footer />
     </div>
     
